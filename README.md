@@ -2,6 +2,7 @@
 Apprentissage artificiel d'un jeu de données traitant de l'assiduité des étudiants en utilisant plusieurs modèles d'apprentissage.
 
 Pour cela, j'ai utilisé ce jeu de données qu'on peut retrouvé ici : https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
+
 Il contient des données d'étudiants s'inscrivant à des univeersité au Portugal. Ils ont des données comme leur situation, leur moyens d'inscription, l'ordre de leur demande d'inscription, leur nationalité, leur rang dans leur promotion lors de leur inscription, leurs notes, les notes et leurs rangs des deux semestres, etc...
 Ces données avaient pour but de pouvoir étudier et de pouvoir prédire celles et ceux qui vont être diplômés, inscrits ou celles et ceux qui vont abandonnés. La finalité étant de pouvoir offrir une aide à celle et ceux qui ont un risque d'échec.
 
