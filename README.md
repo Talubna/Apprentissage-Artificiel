@@ -1,4 +1,7 @@
 # Apprentissage-Artificiel
+
+Warning : N'arrivant pas à faire fonctionner CookieCutter data science, je vais aussi déposer le projet en format .py en plus du format .ipynb.
+
 Apprentissage artificiel d'un jeu de données traitant de l'assiduité des étudiants en utilisant plusieurs modèles d'apprentissage.
 
 Pour cela, j'ai utilisé ce jeu de données qu'on peut retrouvé ici : https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
